@@ -1,1 +1,1 @@
-# webinar
+[exchange rate](https://banduraweb.github.io/webinar/)
