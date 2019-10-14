@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+
 [exchange rate](https://banduraweb.github.io/webinar/)
+
+
+
 =======
 ## Welcome to GitHub Pages
 
